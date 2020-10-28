@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Medicale_Updater": {
+      "commandName": "Project",
+      "commandLineArgs": "check"
+    }
+  }
+}
